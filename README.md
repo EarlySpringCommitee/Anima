@@ -1,2 +1,2 @@
-# Rica
-anime downloader
+# Anima
+Anime downloader
